@@ -107,7 +107,7 @@ tbody tr:hover{background:rgba(125,211,252,.06)}
   white-space: nowrap;
   overflow: hidden;
   position: relative;
-  animation: slideFade 20s linear infinite;
+  animation: slideFade 30s linear infinite;
 }
 
 .dev-credit.headline strong {
