@@ -1,0 +1,167 @@
+Day,Time Slot,Teacher,Course Code,Semester & Section,Room
+Sunday,Slot 1 (09:00 AM),Syed Naimur Rahman Sohel,2221205,"2nd Sem. C, D Sec",105
+Sunday,Slot 1 (09:00 AM),Md. Mahfujur Rahman,6111206,2nd Sem. A Sec,905
+Sunday,Slot 1 (09:00 AM),Sayeda Mahita Binte Masud,ENG 2201,4th Sem. B Sec,1007
+Sunday,Slot 1 (09:00 AM),Md. Nazmul Islam,ENG 2203,4th Sem. D Sec,801
+Sunday,Slot 1 (09:00 AM),Farah Nushrat Meherin,ENG 2204,4th Sem. E Sec,803
+Sunday,Slot 1 (09:00 AM),Sanjeeda Akter Prottasha,ENG 3104,5th Sem. C Sec,902
+Sunday,Slot 1 (09:00 AM),Tanveer Adnan,ENG 3204,6th Sem. D Sec,901
+Sunday,Slot 1 (09:00 AM),Fariha Nuzhat Labiba,ENG 3206,6th Sem. C Sec,904
+Sunday,Slot 1 (09:00 AM),Md. Abu Yusuf,ENGL 408,8th Sem. E Sec,814
+Sunday,Slot 1 (09:00 AM),MD. SHOAB SHAHRIAR,ENGL 409,8th Sem. C Sec,903
+Sunday,Slot 1 (09:00 AM),Tahmina Jarin Khanam,ENGL 409,9th Sem. A Sec,906
+Sunday,---,---,---,---,---
+Sunday,Slot 2 (10:25 AM),Mst. Nusrat Zahan,2321201,2nd Sem. C Sec,1007
+Sunday,Slot 2 (10:25 AM),Md. Zonayed Hossain,2311203,2nd Sem. A Sec,905
+Sunday,Slot 2 (10:25 AM),Md. Alamin Hossain Pappu,6111206,2nd Sem. D Sec,806
+Sunday,Slot 2 (10:25 AM),Nayeem Al-Hasib,ENG 2202,4th Sem. B Sec,803
+Sunday,Slot 2 (10:25 AM),Tasmia Tabassum,ENG 2206,4th Sem. D Sec,901
+Sunday,Slot 2 (10:25 AM),Hisham Mohammad Nazer,ENG 3202,6th Sem. E Sec,904
+Sunday,Slot 2 (10:25 AM),Suraiya Ratri,ENG 3205,6th Sem. D Sec,907
+Sunday,Slot 2 (10:25 AM),Tanzid Tonoy,ENG 4101,7th Sem. B Sec,807
+Sunday,Slot 2 (10:25 AM),Eng New Teacher 3,ENG 4102,7th Sem. A Sec,805
+Sunday,Slot 2 (10:25 AM),NISHAT TASNIM TONNY,ENGL 406,8th Sem. A Sec,903
+Sunday,Slot 2 (10:25 AM),Md. Abu Yusuf,ENGL 408,8th Sem. D Sec,804
+Sunday,Slot 2 (10:25 AM),MUMTAHINA FERDOUS,ENGL 408,9th Sem. A Sec,902
+Sunday,---,---,---,---,---
+Sunday,Slot 3 (11:50 AM),Abu Zafor Md. Sady,2311102,1st Sem. B Sec,903
+Sunday,Slot 3 (11:50 AM),Syed Naimur Rahman Sohel,2221205,"2nd Sem. E, F Sec",105
+Sunday,Slot 3 (11:50 AM),Shayla Sharmin Mim,ENG 2101,3rd Sem. A Sec,807
+Sunday,Slot 3 (11:50 AM),Jannatul Ferdous Jenat,ENG 2205,4th Sem. F Sec,902
+Sunday,Slot 3 (11:50 AM),Tasmia Tabassum,ENG 2206,4th Sem. E Sec,805
+Sunday,Slot 3 (11:50 AM),Eng New Teacher 1,ENG 3101,5th Sem. C Sec,907
+Sunday,Slot 3 (11:50 AM),Md. Akram Hossain,ENG 3103,5th Sem. B Sec,906
+Sunday,Slot 3 (11:50 AM),Munif Mahraf,ENG 3203,6th Sem. C Sec,804
+Sunday,Slot 3 (11:50 AM),Eng New Teacher 2,ENG 3203,6th Sem. F Sec,1006
+Sunday,Slot 3 (11:50 AM),Tanveer Adnan,ENG 3204,6th Sem. B Sec,901
+Sunday,Slot 3 (11:50 AM),Suraiya Ratri,ENG 3205,6th Sem. A Sec,806
+Sunday,Slot 3 (11:50 AM),NISHAT TASNIM TONNY,ENGL 406,8th Sem. B Sec,814
+Sunday,Slot 3 (11:50 AM),Sanjeeda Akter Prottasha,ENGL 407,8th Sem. C Sec,803
+Sunday,Slot 3 (11:50 AM),Prof. Md. Shahidur Rahman,ENG 410,"8th Sem. D, E Sec",801
+Sunday,---,---,---,---,---
+Sunday,Slot 4 (01:45 PM),Jannatul Ferdous Jenat,2311103,1st Sem. B Sec,906
+Sunday,Slot 4 (01:45 PM),MUHAMMAD FARHAN RUCKSHAD RION,2321105,1st Sem. C Sec,805
+Sunday,Slot 4 (01:45 PM),Md. Zonayed Hossain,2311203,2nd Sem. E Sec,1006
+Sunday,Slot 4 (01:45 PM),Eng New Teacher 1,ENG 2105,3rd Sem. A Sec,804
+Sunday,Slot 4 (01:45 PM),Sayeda Mahita Binte Masud,ENG 2201,4th Sem. D Sec,904
+Sunday,Slot 4 (01:45 PM),Nayeem Al-Hasib,ENG 2202,4th Sem. A Sec,803
+Sunday,Slot 4 (01:45 PM),Md. Nazmul Islam,ENG 2203,4th Sem. E Sec,905
+Sunday,Slot 4 (01:45 PM),Sanjeeda Akter Prottasha,ENG 3104,5th Sem. A Sec,903
+Sunday,Slot 4 (01:45 PM),MUMTAHINA FERDOUS,ENG 3106,5th Sem. C Sec,807
+Sunday,Slot 4 (01:45 PM),Hisham Mohammad Nazer,ENG 3202,6th Sem. D Sec,901
+Sunday,Slot 4 (01:45 PM),Suraiya Ratri,ENG 3205,6th Sem. E Sec,1007
+Sunday,Slot 4 (01:45 PM),Fariha Nuzhat Labiba,ENG 3206,6th Sem. F Sec,907
+Sunday,Slot 4 (01:45 PM),Md. Akram Hossain,ENG 4101,7th Sem. A Sec,806
+Sunday,Slot 4 (01:45 PM),Munif Mahraf,ENG 4105,7th Sem. B Sec,801
+Sunday,Slot 4 (01:45 PM),Prof. Md. Shahidur Rahman,ENG 410,"8th Sem. A, B, C Sec",902
+Sunday,---,---,---,---,---
+Sunday,Slot 5 (03:10 PM),Sadia Sabrina Alam,2311101,1st Sem. C Sec,904
+Sunday,Slot 5 (03:10 PM),Abu Zafor Md. Sady,2311102,1st Sem. A Sec,807
+Sunday,Slot 5 (03:10 PM),Tabassum Ferdaus,2321104,1st Sem. B Sec,903
+Sunday,Slot 5 (03:10 PM),Md. Zonayed Hossain,2311203,2nd Sem. F Sec,805
+Sunday,Slot 5 (03:10 PM),Mst. Raka Khatun,2221204,2nd Sem. B Sec,901
+Sunday,Slot 5 (03:10 PM),Sutapa Saha,ENG 2103,3rd Sem. B Sec,801
+Sunday,Slot 5 (03:10 PM),Md. Nazmul Islam,ENG 2203,4th Sem. C Sec,806
+Sunday,Slot 5 (03:10 PM),Farah Nushrat Meherin,ENG 2204,4th Sem. F Sec,902
+Sunday,Slot 5 (03:10 PM),Eng New Teacher 1,ENG 3101,5th Sem. A Sec,814
+Sunday,Slot 5 (03:10 PM),Eng New Teacher 2,ENG 3105,5th Sem. B Sec,907
+Sunday,Slot 5 (03:10 PM),Shayla Sharmin Mim,ENG 3201,6th Sem. B Sec,905
+Sunday,Slot 5 (03:10 PM),Tanveer Adnan,ENG 3204,6th Sem. A Sec,804
+Sunday,Slot 5 (03:10 PM),Fariha Nuzhat Labiba,ENG 3206,6th Sem. E Sec,906
+Sunday,Slot 5 (03:10 PM),MD. SHOAB SHAHRIAR,ENG 4104,7th Sem. A Sec,803
+Sunday,Slot 5 (03:10 PM),RAYUFA ASHRAFI,ENGL 411,"8th Sem. A, B Sec",1007
+Sunday,---,---,---,---,---
+Sunday,Slot 6 (04:35 PM),MUHAMMAD FARHAN RUCKSHAD RION,2321105,1st Sem. A Sec,806
+Sunday,Slot 6 (04:35 PM),Mst. Nusrat Zahan,2321201,2nd Sem. E Sec,803
+Sunday,Slot 6 (04:35 PM),Mohsina Tanjin,2321202,2nd Sem. B Sec,903
+Sunday,Slot 6 (04:35 PM),Shayla Sharmin Mim,ENG 2101,3rd Sem. B Sec,801
+Sunday,Slot 6 (04:35 PM),Md. Manikul Islam,ENG 2106,3rd Sem. A Sec,902
+Sunday,Slot 6 (04:35 PM),Tanzid Tonoy,ENG 2205,4th Sem. A Sec,907
+Sunday,Slot 6 (04:35 PM),Tasmia Tabassum,ENG 2206,4th Sem. C Sec,905
+Sunday,Slot 6 (04:35 PM),RAYUFA ASHRAFI,ENG 3102,5th Sem. B Sec,904
+Sunday,Slot 6 (04:35 PM),Hisham Mohammad Nazer,ENG 3202,6th Sem. F Sec,901
+Sunday,Slot 6 (04:35 PM),Munif Mahraf,ENG 3203,6th Sem. B Sec,906
+Sunday,Time Slot,Teacher,Course Code,Semester & Section,Room
+Sunday,Slot 1 (09:00 AM),Md. Mahfujur Rahman,6111206,2nd Sem. B Sec,904
+Sunday,Slot 1 (09:00 AM),Md. Alamin Hossain Pappu,6111206,2nd Sem. F Sec,803
+Sunday,Slot 1 (09:00 AM),Sutapa Saha,ENG 2103,3rd Sem. A Sec,801
+Sunday,Slot 1 (09:00 AM),Nayeem Al-Hasib,ENG 2202,4th Sem. C Sec,1007
+Sunday,Slot 1 (09:00 AM),Tabassum Ferdaus,ENG 2204,4th Sem. A Sec,805
+Sunday,Slot 1 (09:00 AM),Farah Nushrat Meherin,ENG 3102,5th Sem. C Sec,903
+Sunday,Slot 1 (09:00 AM),MUMTAHINA FERDOUS,ENG 3106,5th Sem. B Sec,804
+Sunday,Slot 1 (09:00 AM),Prof. Md. Shahidur Rahman,ENG 3204,6th Sem. E Sec,901
+Sunday,Slot 1 (09:00 AM),Tanveer Adnan,ENG 4103,7th Sem. A Sec,907
+Sunday,Slot 1 (09:00 AM),Md. Abu Yusuf,ENGL 408,8th Sem. E Sec,807
+Sunday,Slot 1 (09:00 AM),Nikhate Jannat Binte Zinnah,ENGL 407,9th Sem. B Sec,902
+Sunday,---,---,---,---,---
+Sunday,Slot 2 (10:25 AM),Mst. Nusrat Zahan,2321201,2nd Sem. B Sec,806
+Sunday,Slot 2 (10:25 AM),Mohsina Tanjin,2321202,2nd Sem. D Sec,807
+Sunday,Slot 2 (10:25 AM),Md. Zonayed Hossain,2311203,2nd Sem. C Sec,804
+Sunday,Slot 2 (10:25 AM),Abu Zafor Md. Sady,ENG 2102,3rd Sem. A Sec,901
+Sunday,Slot 2 (10:25 AM),Md. Nazmul Islam,ENG 2203,4th Sem. A Sec,905
+Sunday,Slot 2 (10:25 AM),Tasmia Tabassum,ENG 2206,4th Sem. D Sec,903
+Sunday,Slot 2 (10:25 AM),Eng New Teacher 1,ENG 3101,5th Sem. C Sec,1006
+Sunday,Slot 2 (10:25 AM),Eng New Teacher 2,ENG 3105,5th Sem. A Sec,902
+Sunday,Slot 2 (10:25 AM),Shayla Sharmin Mim,ENG 3201,6th Sem. A Sec,906
+Sunday,Slot 2 (10:25 AM),Sutapa Saha,ENG 3201,6th Sem. E Sec,805
+Sunday,Slot 2 (10:25 AM),Suraiya Ratri,ENG 3205,6th Sem. B Sec,803
+Sunday,Slot 2 (10:25 AM),Tahmina Jarin Khanam,ENGL 409,8th Sem. A Sec,904
+Sunday,Slot 2 (10:25 AM),RAYUFA ASHRAFI,ENGL 411,8th Sem. E Sec,814
+Sunday,Slot 2 (10:25 AM),MUMTAHINA FERDOUS,ENGL 408,9th Sem. B Sec,907
+Sunday,---,---,---,---,---
+Sunday,Slot 3 (11:50 AM),Sadia Sabrina Alam,2311101,1st Sem. B Sec,803
+Sunday,Slot 3 (11:50 AM),Mst. Nusrat Zahan,2321201,2nd Sem. F Sec,902
+Sunday,Slot 3 (11:50 AM),Md. Zonayed Hossain,2311203,2nd Sem. A Sec,805
+Sunday,Slot 3 (11:50 AM),Mst. Raka Khatun,2221204,2nd Sem. C Sec,801
+Sunday,Slot 3 (11:50 AM),Tanzid Tonoy,ENG 2104,3rd Sem. B Sec,807
+Sunday,Slot 3 (11:50 AM),Sayeda Mahita Binte Masud,ENG 2201,4th Sem. E Sec,905
+Sunday,Slot 3 (11:50 AM),Tabassum Ferdaus,ENG 2204,4th Sem. C Sec,904
+Sunday,Slot 3 (11:50 AM),Sanjeeda Akter Prottasha,ENG 3104,5th Sem. B Sec,906
+Sunday,Slot 3 (11:50 AM),Shayla Sharmin Mim,ENG 3201,6th Sem. C Sec,1007
+Sunday,Slot 3 (11:50 AM),Munif Mahraf,ENG 3203,6th Sem. B Sec,903
+Sunday,Slot 3 (11:50 AM),Suraiya Ratri,ENG 3205,6th Sem. A Sec,804
+Sunday,Slot 3 (11:50 AM),Md. Akram Hossain,ENG 4101,7th Sem. A Sec,901
+Sunday,Slot 3 (11:50 AM),MD. SHOAB SHAHRIAR,ENGL 409,8th Sem. D Sec,806
+Sunday,---,---,---,---,---
+Sunday,Slot 4 (01:45 PM),Sadia Sabrina Alam,2311101,1st Sem. C Sec,1006
+Sunday,Slot 4 (01:45 PM),Mohsina Tanjin,2321202,2nd Sem. A Sec,1007
+Sunday,Slot 4 (01:45 PM),Mst. Raka Khatun,2221204,2nd Sem. D Sec,805
+Sunday,Slot 4 (01:45 PM),Eng New Teacher 1,ENG 2105,3rd Sem. A Sec,804
+Sunday,Slot 4 (01:45 PM),Sayeda Mahita Binte Masud,ENG 2201,4th Sem. F Sec,906
+Sunday,Slot 4 (01:45 PM),Farah Nushrat Meherin,ENG 2204,4th Sem. D Sec,905
+Sunday,Slot 4 (01:45 PM),Tasmia Tabassum,ENG 2206,4th Sem. A Sec,903
+Sunday,Slot 4 (01:45 PM),MUMTAHINA FERDOUS,ENG 3106,5th Sem. A Sec,807
+Sunday,Slot 4 (01:45 PM),Tanveer Adnan,ENG 3204,6th Sem. A Sec,806
+Sunday,Slot 4 (01:45 PM),Suraiya Ratri,ENG 3205,6th Sem. E Sec,907
+Sunday,Slot 4 (01:45 PM),Fariha Nuzhat Labiba,ENG 3206,6th Sem. D Sec,902
+Sunday,Slot 4 (01:45 PM),NISHAT TASNIM TONNY,ENGL 406,8th Sem. C Sec,803
+Sunday,Slot 4 (01:45 PM),Sanjeeda Akter Prottasha,ENGL 407,8th Sem. E Sec,801
+Sunday,Slot 4 (01:45 PM),Md. Abu Yusuf,ENGL 408,8th Sem. A Sec,904
+Sunday,Slot 4 (01:45 PM),RAYUFA ASHRAFI,ENGL 411,"9th Sem. A, B Sec",901
+Sunday,---,---,---,---,---
+Sunday,Slot 5 (03:10 PM),Abu Zafor Md. Sady,2311102,1st Sem. C Sec,905
+Sunday,Slot 5 (03:10 PM),Tabassum Ferdaus,2321104,1st Sem. A Sec,901
+Sunday,Slot 5 (03:10 PM),MUHAMMAD FARHAN RUCKSHAD RION,2321105,1st Sem. B Sec,805
+Sunday,Slot 5 (03:10 PM),Md. Zonayed Hossain,2311203,2nd Sem. E Sec,804
+Sunday,Slot 5 (03:10 PM),Shayla Sharmin Mim,ENG 2101,3rd Sem. B Sec,801
+Sunday,Slot 5 (03:10 PM),Nayeem Al-Hasib,ENG 2202,4th Sem. E Sec,906
+Sunday,Slot 5 (03:10 PM),Md. Nazmul Islam,ENG 2203,4th Sem. B Sec,806
+Sunday,Slot 5 (03:10 PM),Jannatul Ferdous Jenat,ENG 2205,4th Sem. D Sec,807
+Sunday,Slot 5 (03:10 PM),Sutapa Saha,ENG 3201,6th Sem. F Sec,907
+Sunday,Slot 5 (03:10 PM),Hisham Mohammad Nazer,ENG 3202,6th Sem. B Sec,902
+Sunday,Slot 5 (03:10 PM),Fariha Nuzhat Labiba,ENG 3206,6th Sem. C Sec,904
+Sunday,Slot 5 (03:10 PM),Eng New Teacher 3,ENG 4102,7th Sem. B Sec,1006
+Sunday,Slot 5 (03:10 PM),Sanjeeda Akter Prottasha,ENGL 407,8th Sem. A Sec,803
+Sunday,Slot 5 (03:10 PM),Nikhate Jannat Binte Zinnah,ENGL 407,8th Sem. D Sec,903
+Sunday,---,---,---,---,---
+Sunday,Slot 6 (04:35 PM),Jannatul Ferdous Jenat,2311103,1st Sem. A Sec,902
+Sunday,Slot 6 (04:35 PM),Mst. Nusrat Zahan,2321201,2nd Sem. A Sec,807
+Sunday,Slot 6 (04:35 PM),Mohsina Tanjin,2321202,2nd Sem. E Sec,807
+Sunday,Slot 6 (04:35 PM),Sadia Sabrina Alam,ENG 2203,4th Sem. F Sec,814
+Sunday,Slot 6 (04:35 PM),Tasmia Tabassum,ENG 2206,4th Sem. B Sec,804
+Sunday,Slot 6 (04:35 PM),Hisham Mohammad Nazer,ENG 3202,6th Sem. C Sec,801
+Sunday,Slot 6 (04:35 PM),Munif Mahraf,ENG 3203,6th Sem. D Sec,805
+Sunday,Slot 6 (04:35 PM),Eng New Teacher 2,ENG 3203,6th Sem. F Sec,903
+Sunday,Slot 6 (04:35 PM),MUHAMMAD FARHAN RUCKSHAD RION,ENG 4106,7th Sem. B Sec,1006
+Sunday,Slot 6 (04:35 PM),RAYUFA ASHRAFI,ENGL 411,"8th Sem. C, D Sec",803
+Sunday,Slot 6 (04:35 PM),NISHAT TASNIM TONNY,ENGL 406,9th Sem. A Sec,806
