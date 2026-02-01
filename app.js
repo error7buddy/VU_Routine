@@ -187,13 +187,22 @@ try {
   [els.day, els.slot, els.course, els.teacher, els.semsec, els.room]
     .forEach(el => el.addEventListener("change", () => render(rows)));
 
-  els.reset.addEventListener("click", () => {
-    els.q.value = "";
-    [els.day, els.slot, els.course, elsteacher, els.semsec, els.room]
-      .forEach(el => el.value = "");
-    els.tbody.innerHTML = "";
-    els.count.textContent = "Select a filter to view routine";
-  });
+ els.reset.addEventListener("click", () => {
+  els.q.value = "";
+
+  [
+    els.day,
+    els.slot,
+    els.course,
+    els.teacher,
+    els.semsec,
+    els.room
+  ].forEach(el => el.value = "");
+
+  els.tbody.innerHTML = "";
+  els.count.textContent = "Select a filter to view routine";
+});
+
 
   // Initial state
   els.tbody.innerHTML = "";
