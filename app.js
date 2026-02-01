@@ -146,8 +146,15 @@ async function init() {
 
   const url = `https://opensheet.elk.sh/${SHEET_ID}/${SHEET_NAME}`;
 
+let rows = [];
+
+try {
   const res = await fetch(url);
-  const rows = await res.json();
+  rows = await res.json();
+  localStorage.setItem("routineData", JSON.stringify(rows));
+} catch {
+  rows = JSON.parse(localStorage.getItem("routineData") || "[]");
+}
 
   // Populate filters
   // ✅ FIX: sort days by custom order (Sunday before Monday)
@@ -197,3 +204,6 @@ init().catch(err => {
   console.error(err);
   els.count.textContent = "Failed to load routine from Google Sheet";
 });
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("./sw.js");
+}
