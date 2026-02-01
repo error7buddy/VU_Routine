@@ -24,7 +24,7 @@
     <!-- Value from default config. -->
     <integer name="splashScreenFadeOutDuration">300</integer>
     <!-- Value from default config. -->
-    <string name="appName" translatable="false">কয়টায় ক্লাস?</string>
+    <string name="appName" translatable="false">VU English Routine</string>
     <!-- Value from default config. -->
     <string name="fallbackType" translatable="false">customtabs</string>
     <!-- Value from default config. -->
@@ -36,7 +36,7 @@
     <!-- Value from default config. -->
     <string name="launchUrl" translatable="false">https://koytaiclass.vercel.app/index.html</string>
     <!-- Value from default config. -->
-    <string name="launcherName" translatable="false">ক্লাস টাইম</string>
+    <string name="launcherName" translatable="false">VU_Eng</string>
     <!-- Value from default config. -->
     <string name="orientation" translatable="false">default</string>
     <!-- Value from default config. -->
